@@ -7,7 +7,7 @@
   https://developer.mozilla.org/en-US/docs/Web/HTTP
 # OS
   https://pages.cs.wisc.edu/~remzi/OSTEP/
-  сам я больше предпочитаю книжку Таненбаума, но та, что выше забесплатно :)
+  сам я больше предпочитаю книжку Таненбаума, но эта забесплатно :)
 # Csharp/Dotnet
   https://learn.microsoft.com/en-us/dotnet/csharp/
 # ASPNET Core web api
@@ -17,8 +17,12 @@
   
   https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-7.0
 # Entity Framework Core
+https://learn.microsoft.com/en-us/ef/core/
 # Kafka
+https://developer.confluent.io/get-started/dotnet/
 # RabbitMQ
+https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html
 # Monitoring
 # PostgreSQL
 # Docker
+https://docs.docker.com/get-started/
